@@ -14,7 +14,7 @@ pkg install proot wget tar -y
 # Step 3: Download and run the script
 
 ```
-wget https://raw.githubusercontent.com/Neo-Oli/termux-ubuntu/master/ubuntu.sh -O install-kali.sh
+wget https://github.com/HarshitTiwari-20/kali-for-termux.git
 ```
 
 #chmod
